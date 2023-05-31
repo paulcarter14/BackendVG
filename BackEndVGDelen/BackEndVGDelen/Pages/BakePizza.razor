@@ -1,0 +1,65 @@
+﻿@page "/BakePizza"
+@using BackEndVGDelen.Models
+@using BackEndVGDelen.Data
+@inject BackEndContext _context
+@inject NavigationManager NavManager
+@using Microsoft.EntityFrameworkCore
+
+<button class="btn btn-primary" @onclick="GetIngredientsAsync">Load Ingredients</button>
+
+@if (IngredientList != null)
+{
+    <form @onsubmit="SubmitForm">
+        <h1>Create pizza</h1>
+        <input id="input-pizzaName" @bind="PizzaName" type="text" name="pizzaName" placeholder="Give a name to your pizza" />
+
+        <div class="file-input-wrapper">
+            <input type="file" name="photo" id="file-input" class="file-input" @onchange="HandleFileUpload">
+            <label for="file-input" class="custom-file-input">Choose File</label>
+        </div>
+
+        @foreach (string category in new[] { "Dough", "Bottom-sauce", "Cheese", "Fish", "Chicken", "Meat", "Vegetables", "Sauces" })
+        {
+            <div class="ingredient-section">
+                <div class="list-container">
+                    <h2>@category</h2>
+                    <ul class="ingredient-list">
+                        @foreach (var ingredient in IngredientList.Where(i => i.Category == category))
+                        {
+                            <li>
+                                <input type="checkbox" name="ingredients" value="@ingredient.IngredientID" id="@ingredient.IngredientID">
+                                <label for="@ingredient.IngredientID">@ingredient.IngredientName</label>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        }
+
+        <div class="bakeButton">
+            <button type="submit">Bake and upload</button>
+        </div>
+    </form>
+}
+
+@code {
+    private int currentCount = 0;
+    private string PizzaName { get; set; }
+    private IFormFile Photo { get; set; }
+    public List<Ingredient> IngredientList { get; set; }
+
+    private async Task GetIngredientsAsync()
+    {
+        IngredientList = await _context.Ingredients.ToListAsync();
+    }
+
+    private void HandleFileUpload(ChangeEventArgs e)
+    {
+        Photo = (IFormFile)e.Value;
+    }
+
+    private void SubmitForm()
+    {
+        // Handle form submission here, e.g. save pizza and upload file
+    }
+}
