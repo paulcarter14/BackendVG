@@ -62,3 +62,9 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
+
+header {
+    width: auto;
+    height: auto;
+    background-image: url('https://cdn.pixabay.com/photo/2022/12/12/20/52/venice-7651940_960_720.jpg');
+}
