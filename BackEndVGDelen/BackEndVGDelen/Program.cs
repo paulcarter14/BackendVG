@@ -2,6 +2,8 @@ using BackEndVGDelen.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.EntityFrameworkCore;
+using BackEndVGDelen.Data;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,5 +36,12 @@ app.UseRouting();
 
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
+
+using (var scope = app.Services.CreateScope())
+{
+	var services = scope.ServiceProvider;
+	var context = services.GetRequiredService<BackEndContext>();
+	SampleData.Create(context);
+}
 
 app.Run();
