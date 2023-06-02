@@ -20,16 +20,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakedPizza.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFrZWRQaXp6YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakePizza.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFrZVBpenphLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/ShowPizzas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd1Bpenphcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/BakedPizzaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJha2VkUGl6emFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/PizzaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBpenphQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/SurveyPrompt.razor]
