@@ -1,0 +1,16 @@
+﻿@using Microsoft.AspNetCore.Components
+@using BackEndVGDelen.Models
+@using BackEndVGDelen.Data
+
+<div>@Pizza.PizzaName</div>
+<ul>
+    @foreach (var ingredient in Pizza.PizzaIngredients)
+    {
+        <li>@ingredient.Ingredient.IngredientName</li>
+    }
+</ul>
+
+@code {
+    [Parameter]
+    public Pizza Pizza { get; set; }
+}

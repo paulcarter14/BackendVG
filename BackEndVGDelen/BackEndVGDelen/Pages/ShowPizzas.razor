@@ -1,0 +1,54 @@
+﻿@page "/ShowPizzas"
+@using BackEndVGDelen.Models
+@using BackEndVGDelen.Data
+@inject BackEndContext _context
+@inject NavigationManager NavManager
+@using Microsoft.EntityFrameworkCore
+
+<h1>The Pizzas!</h1>
+
+<div>
+	@foreach (var pizza in Pizzas)
+	{
+		<PizzaComponent Pizza="pizza"/>
+	}
+</div>
+
+@code{
+	public List<Ingredient> IngredientList { get; set; }
+	public List<Pizza> Pizzas { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		Pizzas = GetMyPizzas();
+		IngredientList = await _context.Ingredients.ToListAsync();
+	}
+
+	private List<Pizza> GetMyPizzas()
+	{
+		 Pizzas =
+			(
+				from p in _context.Pizzas
+				select new Pizza
+					{
+						PizzaID = p.PizzaID,
+						PizzaName = p.PizzaName,
+						PizzaIngredients = (
+							from pi in p.PizzaIngredients
+							select new PizzaIngredient
+							{
+								PizzaIngredientID = pi.PizzaIngredientID,
+								Pizza = null,
+								Ingredient = new Ingredient
+								{
+									IngredientID = pi.Ingredient.IngredientID,
+									IngredientName = pi.Ingredient.IngredientName,
+									Category = pi.Ingredient.Category,
+									PizzaIngredients = null
+								}
+							}).ToList(),
+					}).ToList();
+
+		return Pizzas;
+	}
+}
