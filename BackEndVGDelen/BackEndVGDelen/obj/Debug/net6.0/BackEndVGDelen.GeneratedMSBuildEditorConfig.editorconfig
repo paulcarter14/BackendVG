@@ -9,65 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BackEndVGDelen
 build_property.RootNamespace = BackEndVGDelen
-build_property.ProjectDir = C:\Users\46734\Desktop\BackEnd\MinaUppgifter\BackendVG\BackEndVGDelen\BackEndVGDelen\
+build_property.ProjectDir = C:\Users\Marie\Documents\GitHub\BackendVG\BackEndVGDelen\BackEndVGDelen\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\46734\Desktop\BackEnd\MinaUppgifter\BackendVG\BackEndVGDelen\BackEndVGDelen
+build_property.MSBuildProjectDirectory = C:\Users\Marie\Documents\GitHub\BackendVG\BackEndVGDelen\BackEndVGDelen
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/App.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakedPizza.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakedPizza.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFrZWRQaXp6YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakePizza.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/BakePizza.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFrZVBpenphLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Index.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/ShowPizzas.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Ingredients.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/ShowPizzas.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd1Bpenphcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/BakedPizzaComponent.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/BakedPizzaComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJha2VkUGl6emFDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/PizzaComponent.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/IngredientComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEluZ3JlZGllbnRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/PizzaComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBpenphQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/SurveyPrompt.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/_Imports.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/MainLayout.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0evtwjtssu
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/NavMenu.razor]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-u8hn3y6dym
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Error.cshtml]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/_Host.cshtml]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46734/Desktop/BackEnd/MinaUppgifter/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/_Layout.cshtml]
+[C:/Users/Marie/Documents/GitHub/BackendVG/BackEndVGDelen/BackEndVGDelen/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

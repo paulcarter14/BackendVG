@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Components
+@using BackEndVGDelen.Models
+@using BackEndVGDelen.Data
+
+
+<ul>
+    
+    
+        <li>@ingredient.IngredientName</li>
+  
+</ul>
+
+@code {
+	[Parameter]
+
+	public Ingredient ingredient { get; set; }
+}

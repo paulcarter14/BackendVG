@@ -1,0 +1,43 @@
+﻿@page "/Ingredients"
+@using BackEndVGDelen.Models
+@using BackEndVGDelen.Data
+@inject BackEndContext _context
+@inject NavigationManager NavManager
+@using Microsoft.EntityFrameworkCore
+<h3>Ingredients</h3>
+
+<button type="submit" onclick="@(async () => await ChangeClass())">Show ingredients</button>
+
+<div class="@DivClass">
+
+    @foreach (var ingredient in IngredientList)
+	{
+        <IngredientComponent ingredient="ingredient" />
+	}
+
+</div>
+
+
+
+@code {
+
+    public List<Ingredient> IngredientList { get; set; }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        IngredientList = _context.Ingredients.ToList();
+
+    }
+
+    private bool collapseNavMenu = true;
+
+    private string DivClass => collapseNavMenu ? "collapse" : "expand";
+
+    private async Task ChangeClass()
+    {
+        collapseNavMenu = !collapseNavMenu;
+        await Task.CompletedTask;
+    }
+}

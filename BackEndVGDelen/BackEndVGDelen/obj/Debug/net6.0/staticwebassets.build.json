@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FtdLErDPYFrrRHdAMqwICZj9YSnJIZprJIwH9eq5lEo=",
+  "Hash": "HhX1/RYuye3QHpxssYBO8I9sT9TVb/JPtVpr6gzyddM=",
   "Source": "BackEndVGDelen",
   "BasePath": "_content/BackEndVGDelen",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BackEndVGDelen\\wwwroot",
       "Source": "BackEndVGDelen",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BackEndVGDelen.styles.css",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BackEndVGDelen.styles.css",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "BackEndVGDelen.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BackEndVGDelen.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BackEndVGDelen.styles.css"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackEndVGDelen.bundle.scp.css",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackEndVGDelen.bundle.scp.css",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "BackEndVGDelen.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackEndVGDelen.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BackEndVGDelen.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\css\\site.css",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\favicon.ico",
       "SourceId": "BackEndVGDelen",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\46734\\Desktop\\BackEnd\\MinaUppgifter\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Marie\\Documents\\GitHub\\BackendVG\\BackEndVGDelen\\BackEndVGDelen\\wwwroot\\",
       "BasePath": "_content/BackEndVGDelen",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
