@@ -18,6 +18,14 @@ a, .btn-link {
     border-color: #1861ac;
 }
 
+.collapse {
+    display: none;
+}
+
+.expand {
+    display: block;
+}
+
 .content {
     padding-top: 1.1rem;
 }
